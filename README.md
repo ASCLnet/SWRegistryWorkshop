@@ -21,38 +21,38 @@ This workshop is the first effort focused specifically on and for discipline-spe
  9:30   Presentations by registry and repository editors  
 10:30    Coffee/tea break  
 10:45    Break-out groups  
-         Finalizing sections of the Best Practices
-11:45    Report from break-out groups and finalizing Best Practices document
-12:15    Lunch break
- 1:15    Presentations by registry and repository editors
- 2:30    Coffee/tea break
- 2:45    Group discussion
-         - Shared challenges (What are they? How might we work together to mitigate these?)
-         - Individual solutions to share (What technique/process/habit/requirement has been successful for your resource? What solutions already exist that we might leverage?)
-  3:45    State of software citation amongst assembled resources
-  4:15    Overview of CodeMeta and CFF (citation file format)
-      Creating software citation files for software authors’ use
-  5:00    Temperature taking (How’s the workshop going?), recap and overview of day 2 agenda
-  5:30    End session
-  7:00     Workshop dinner
+         Finalizing sections of the Best Practices  
+11:45    Report from break-out groups and finalizing Best Practices document  
+12:15    Lunch break  
+ 1:15    Presentations by registry and repository editors  
+ 2:30    Coffee/tea break  
+ 2:45    Group discussion  
+         - Shared challenges (What are they? How might we work together to mitigate these?)  
+         - Individual solutions to share (What technique/process/habit/requirement has been successful for your resource? What solutions already exist that we might leverage?)  
+  3:45    State of software citation amongst assembled resources  
+  4:15    Overview of CodeMeta and CFF (citation file format)  
+      Creating software citation files for software authors’ use  
+  5:00    Temperature taking (How’s the workshop going?), recap and overview of day 2 agenda  
+  5:30    End session  
+  7:00    Workshop dinner
 
-**_Day 2_**
-  8:30    Arrival and coffee
-  9:00    Presentations by registry and repository editors
-  9:30    Break-out groups
-    Developing CodeMeta files for software author use
-    Developing CFF files for software author use
-    Adopting better practices
-    Building a marketing plan
-10:30    Coffee/tea break
-10:45    Temperature taking (How’s the workshop going? Do we need to revisit something? Spend more time on something?)
-11:00    Continuation of break-out groups
-12:15    Lunch break
-  1:15    Open discussion on topics suggested or selected by attendees; possibilities include working with publishers & indexers to improve software citation, marketing our resources to developers & users, working with institutions to improve career paths for those who write research software, and managing our respective resources effectively
-  2:45    Coffee/tea break
-  3:00    Break-out groups or discussion, depending on input from attendees
-  5:00    Recap and next steps
-  5:30    End session
+**_Day 2_**  
+  8:30    Arrival and coffee  
+  9:00    Presentations by registry and repository editors  
+  9:30    Break-out groups  
+    Developing CodeMeta files for software author use  
+    Developing CFF files for software author use  
+    Adopting better practices  
+    Building a marketing plan  
+10:30    Coffee/tea break  
+10:45    Temperature taking (How’s the workshop going? Do we need to revisit something? Spend more time on something?)  
+11:00    Continuation of break-out groups  
+12:15    Lunch break  
+  1:15    Open discussion on topics suggested or selected by attendees; possibilities include working with publishers & indexers to improve software citation, marketing our resources to developers & users, working with institutions to improve career paths for those who write research software, and managing our respective resources effectively  
+  2:45    Coffee/tea break  
+  3:00    Break-out groups or discussion, depending on input from attendees  
+  5:00    Recap and next steps  
+  5:30    End session  
 
 ### Participants
 
