@@ -15,12 +15,16 @@ This workshop is the first effort focused specifically on and for discipline-spe
 - [Alice Allen, ASCL/UMD](http://ascl.net/wordpress/about-ascl/people/alice_allen/)
 
 ### Agenda (draft)
-**_Day 1_**
-  8:30    Arrival and coffee
-  9:00   Introductions
-  9:30   Presentations by registry and repository editors 
+**_Day 1_**  
+ 8:30    Arrival and coffee
+
+ 9:00   Introductions
+
+ 9:30   Presentations by registry and repository editors 
   
+
 10:30    Coffee/tea break
+
 10:45    Break-out groups
          Finalizing sections of the Best Practices
 11:45    Report from break-out groups and finalizing Best Practices document
