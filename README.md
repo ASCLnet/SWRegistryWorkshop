@@ -54,7 +54,6 @@ This workshop is the first effort focused specifically on and for discipline-spe
   5:00    Recap and next steps
   5:30    End session
 
-
 ### Participants
 
 Due to limited space, participation is by invitation only.
