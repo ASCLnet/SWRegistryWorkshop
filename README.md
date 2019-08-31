@@ -53,11 +53,11 @@ This workshop is the first effort focused specifically on and for discipline-spe
  &nbsp; &nbsp; 11:00    Continuation of break-out groups  
  &nbsp; &nbsp; 12:15    Lunch break  
  &nbsp; &nbsp;   1:15    Open discussion on topics suggested or selected by attendees  
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; Possibilities include  
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; working with publishers & indexers to improve software citation  
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; marketing our resources to developers & users  
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; working with institutions to improve career paths for those who write research software  
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; managing our respective resources effectively  
+ &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; Possibilities include:  
+ &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; - working with publishers & indexers to improve software citation  
+ &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; - marketing our resources to developers & users  
+ &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; - working with institutions to improve career paths for those who write research software  
+ &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; - managing our respective resources effectively  
  &nbsp; &nbsp;  2:45    Coffee/tea break  
  &nbsp; &nbsp;   3:00    Break-out groups or discussion, depending on input from attendees  
  &nbsp; &nbsp;   5:00    Recap and next steps  
