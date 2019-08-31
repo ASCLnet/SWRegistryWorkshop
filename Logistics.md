@@ -4,10 +4,11 @@ University of Maryland
 College Park, MD
 
 ### Lodging
-We have a room block at the Cambria Hotel for $129 /night. Reserve at https://www.choicehotels.com/reservations/groups/IB67L9 or calling 301-595-2600 and mentioning the Caltech room block.
+We have a room block at the Cambria Hotel for $129/night. Reserve at https://www.choicehotels.com/reservations/groups/IB67L9 or calling 301-595-2600 and mentioning the Caltech room block.
 
-### Walking from Cambria Hotel to PSC: 
-[Image description](link-to-image)
+### Walking from Cambria Hotel to PSC 
+It's a short walk from the hotel to the Physical Sciences Complex:
+![map from hotel to workshop](CambriatoPSC.png)
 
 
 ### Travel
