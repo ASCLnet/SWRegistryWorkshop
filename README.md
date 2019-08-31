@@ -32,11 +32,11 @@ This workshop is the first effort focused specifically on and for discipline-spe
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; How might we work together to mitigate these?  
  &nbsp; &nbsp; &nbsp; &nbsp; - Individual solutions to share  
  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; What technique/process/habit/requirement has been successful for your resource?  
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; What solutions already exist that we might leverage?)  
+ &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; What solutions already exist that we might leverage?  
  &nbsp; &nbsp; 3:45    State of software citation amongst assembled resources  
- &nbsp; &nbsp; 4:15    Overview of CodeMeta and CFF (citation file format)  
+ &nbsp; &nbsp; 4:15    Overview of CodeMeta and Citation File Format  
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Creating software citation files for software authors’ use  
- &nbsp; &nbsp; 5:00    Temperature taking (How’s the workshop going?), recap and overview of day 2 agenda  
+ &nbsp; &nbsp; 5:00    Temperature taking (how’s the workshop going?), recap and overview of day 2 agenda  
  &nbsp; &nbsp; 5:30    End session  
  &nbsp; &nbsp; 7:00    Workshop dinner
 
@@ -49,7 +49,7 @@ This workshop is the first effort focused specifically on and for discipline-spe
   &nbsp; &nbsp;  &nbsp; &nbsp;    Adopting better practices  
  &nbsp; &nbsp;  &nbsp; &nbsp;     Building a marketing plan  
  &nbsp; &nbsp; 10:30    Coffee/tea break  
- &nbsp; &nbsp; 10:45    Temperature taking (How’s the workshop going? Do we need to revisit something? Spend more time on something?)  
+ &nbsp; &nbsp; 10:45    Temperature taking (how’s the workshop going? Do we need to revisit something? Spend more time on something?)  
  &nbsp; &nbsp; 11:00    Continuation of break-out groups  
  &nbsp; &nbsp; 12:15    Lunch break  
  &nbsp; &nbsp;   1:15    Open discussion on topics suggested or selected by attendees  
