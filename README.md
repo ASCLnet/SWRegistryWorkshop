@@ -13,6 +13,8 @@ This workshop is the first effort focused specifically on and for discipline-spe
 - [Tom Morrell, Caltech](https://www.library.caltech.edu/person/tom-morrell)
 - [Alice Allen, ASCL/UMD](http://ascl.net/wordpress/about-ascl/people/alice_allen/)
 
+### [Logistics](Logistics.md)
+
 ### Agenda (draft)
 **_Day 1_**  
  &nbsp; &nbsp; 8:30    Arrival and coffee  
