@@ -64,4 +64,4 @@ This workshop is the first effort focused specifically on and for discipline-spe
 
 ### Participants
 
-Due to limited space, participation is by invitation only.
+Due to limited space, participation is by invitation.
