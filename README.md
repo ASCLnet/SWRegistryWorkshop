@@ -1,6 +1,5 @@
 # Software Registry Collaboration Workshop
-#### November 13-14, 2019
-#### University of Maryland, College Park
+#### November 13-14, 2019 &#9830; University of Maryland, College Park
 
 ### Purpose
 
