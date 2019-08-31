@@ -23,7 +23,7 @@ The quickest method is often by Uber or Lyft ($40+ depending on time of day). Yo
 
 **From Ronald Reagan (DCA)**: Take the Metro YELLOW line from the airport to L'Enfant Plaza Metro Station; at the L’Enfant Plaza Metro Station, change to the GREEN line to College Park Metro Station. From there, you can walk just over 1 mile (see map below) to the Cambria or take a taxi or Uber/Lyft. If walking, be sure to walk through the tunnel to the _neighborhood_ side of the tracks.
 
-The Cambria Hotel is located one mile from the College Park Metro station, which is on Metro's Green Line. Taxi service is available at the College Park Metro station. The walk from the Metro to the Cambria is mostly flat, with a slight incline before reaching the hotel.  
+The Cambria Hotel is located just over a mile from the College Park Metro station, which is on Metro's Green Line. Taxi service is available at the College Park Metro station. The walk from the Metro to the Cambria is mostly flat, with a slight incline before reaching the hotel.  
 ![map from College Park Metro to Cambria](MetrotoCambria.png)
 
 
