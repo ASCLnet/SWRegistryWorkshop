@@ -20,7 +20,7 @@ This workshop is the first effort focused specifically on and for discipline-spe
      9:00   Introductions  
      9:30   Presentations by registry and repository editors  
     10:30    Coffee/tea break  
-10:45    Break-out groups  
+     10:45    Break-out groups  
          Finalizing sections of the Best Practices  
 11:45    Report from break-out groups and finalizing Best Practices document  
 12:15    Lunch break  
