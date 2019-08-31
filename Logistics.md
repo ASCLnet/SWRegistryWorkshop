@@ -25,7 +25,7 @@ The quickest method is often by Uber or Lyft ($40+ depending on time of day). Yo
 
 The Cambria Hotel is located one mile from the College Park Metro station, which is on Metro's Green Line. Taxi service is available at the College Park Metro station. The walk from the Metro to the Cambria is mostly flat, with a slight incline before reaching the hotel.
 
-#### Traveling in College Park
+#### Traveling in College Park  
 For getting around locally, consider a bicycle: Zagster BikeShare has partnered with U of MD and The City of College Park to provide bikeshare stations throughout the area. 
 
 [Info For New Metro Riders](https://www.wmata.com/rider-guide/new-riders/)  
