@@ -26,9 +26,9 @@ The Cambria Hotel is located one mile from the College Park Metro station, which
 
 For getting around locally, consider a bicycle: Zagster BikeShare has partnered with U of MD and The City of College Park to provide bikeshare stations throughout the area..
 
-[Info For New Metro Riders](https://www.wmata.com/rider-guide/new-riders/)
-[Metro System Map (PDF)](https://www.wmata.com/schedules/maps/upload/2017-System-Map.pdf)
-[Ronald Reagan National Airport (DCA)](http://www.flyreagan.com/dca/reagan-national-airport); 17 miles
-[Baltimore/Washington International Airport (BWI)](http://www.bwiairport.com/); 27 miles
-[Washington Dulles International Airport (IAD)](http://www.flydulles.com/); 36 miles
-[Zagster BikeShare Stations](https://bike.zagster.com/mbike)
+[Info For New Metro Riders](https://www.wmata.com/rider-guide/new-riders/)  
+[Metro System Map (PDF)](https://www.wmata.com/schedules/maps/upload/2017-System-Map.pdf)  
+[Ronald Reagan National Airport (DCA)](http://www.flyreagan.com/dca/reagan-national-airport); 17 miles  
+[Baltimore/Washington International Airport (BWI)](http://www.bwiairport.com/); 27 miles  
+[Washington Dulles International Airport (IAD)](http://www.flydulles.com/); 36 miles  
+[Zagster BikeShare Stations](https://bike.zagster.com/mbike)  
