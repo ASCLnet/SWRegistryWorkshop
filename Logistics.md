@@ -1,8 +1,6 @@
 ### Workshop location
-Physical Sciences Complex, Room PSC 1136
-
-University of Maryland
-
+Physical Sciences Complex, Room PSC 1136  
+University of Maryland  
 College Park, MD
 
 ### Lodging
