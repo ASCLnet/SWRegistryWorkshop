@@ -44,10 +44,10 @@ This workshop is the first effort focused specifically on and for discipline-spe
  &nbsp; &nbsp;   8:30    Arrival and coffee  
   &nbsp; &nbsp;  9:00    Presentations by registry and repository editors  
   &nbsp; &nbsp;  9:30    Break-out groups  
-  &nbsp; &nbsp;  &nbsp; &nbsp;    Developing CodeMeta files for software author use  
-  &nbsp; &nbsp;  &nbsp; &nbsp;    Developing CFF files for software author use  
-  &nbsp; &nbsp;  &nbsp; &nbsp;    Adopting better practices  
- &nbsp; &nbsp;  &nbsp; &nbsp;     Building a marketing plan  
+  &nbsp; &nbsp;  &nbsp; &nbsp;   - Developing CodeMeta files for software author use  
+  &nbsp; &nbsp;  &nbsp; &nbsp;   - Developing CFF files for software author use  
+  &nbsp; &nbsp;  &nbsp; &nbsp;   - Adopting better practices  
+ &nbsp; &nbsp;  &nbsp; &nbsp;    - Building a marketing plan  
  &nbsp; &nbsp; 10:30    Coffee/tea break  
  &nbsp; &nbsp; 10:45    Temperature taking (how’s the workshop going? Do we need to revisit something? Spend more time on something?)  
  &nbsp; &nbsp; 11:00    Continuation of break-out groups  
