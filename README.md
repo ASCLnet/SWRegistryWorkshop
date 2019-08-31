@@ -22,7 +22,7 @@ This workshop is the first effort focused specifically on and for discipline-spe
  &nbsp; &nbsp;10:30    Coffee/tea break  
  &nbsp; &nbsp;10:45    Break-out groups  
  &nbsp; &nbsp; &nbsp; &nbsp; - Finalizing sections of the Best Practices  
- &nbsp; &nbsp;11:45    Report from break-out groups 
+ &nbsp; &nbsp;11:45    Report from break-out groups  
  &nbsp; &nbsp;12:15    Lunch break  
  &nbsp; &nbsp; 1:15    Presentations by registry and repository editors  
  &nbsp; &nbsp; 2:30    Coffee/tea break  
