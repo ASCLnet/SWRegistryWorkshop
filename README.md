@@ -1,4 +1,4 @@
-# Scientific Software Registry Collaboration Workshop
+### Dates and location
 #### Nov. 13-14, 2019 &#9830; University of Maryland, College Park &#9830; Physical Sciences Complex Room 1136
 
 ### Purpose
