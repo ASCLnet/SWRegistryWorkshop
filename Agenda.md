@@ -1,5 +1,5 @@
 ### Agenda (draft)
-**_Day 1_**  
+#### Day 1    
  &nbsp; &nbsp; 8:30    Arrival and coffee  
  &nbsp; &nbsp; 9:00   Introductions  
  &nbsp; &nbsp; 9:30   Presentations by registry and repository editors  
@@ -20,11 +20,11 @@
  &nbsp; &nbsp; 3:45    State of software citation amongst assembled resources  
  &nbsp; &nbsp; 4:15    Overview of CodeMeta and Citation File Format  
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Creating software citation files for software authors’ use  
- &nbsp; &nbsp; 5:00    Temperature taking (how’s the workshop going?), recap and overview of day 2 agenda  
+ &nbsp; &nbsp; 5:00    Temperature taking (how’s the workshop going?), recap, and overview of day 2 agenda  
  &nbsp; &nbsp; 5:30    End session  
  &nbsp; &nbsp; 7:00    Workshop dinner
 
-**_Day 2_**  
+#### Day 2    
  &nbsp; &nbsp;   8:30    Arrival and coffee  
   &nbsp; &nbsp;  9:00    Presentations by registry and repository editors  
   &nbsp; &nbsp;  9:30    Break-out groups  
@@ -47,3 +47,4 @@
  &nbsp; &nbsp;   3:00    Break-out groups or discussion, depending on input from attendees  
  &nbsp; &nbsp;   5:00    Recap, next steps, and workshop evaluation  
  &nbsp; &nbsp;   5:30    End session  
+
