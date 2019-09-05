@@ -27,7 +27,7 @@
 **_Day 2_**  
  &nbsp; &nbsp;   8:30    Arrival and coffee  
   &nbsp; &nbsp;  9:00    Presentations by registry and repository editors  
-  &nbsp; &nbsp;  9:30    Break-out groups  
+  &nbsp; &nbsp;  9:30    Break-out groups; possible groups include:  
   &nbsp; &nbsp;  &nbsp; &nbsp;   - Developing CodeMeta files for software author use  
   &nbsp; &nbsp;  &nbsp; &nbsp;   - Developing CFF files for software author use  
   &nbsp; &nbsp;  &nbsp; &nbsp;   - Adopting better practices  
