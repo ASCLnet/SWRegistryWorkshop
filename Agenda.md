@@ -1,5 +1,5 @@
 ## Agenda (draft)
-### Day 1 (Wednesday, November 13)   
+### Day 1 (Wednesday, Nov. 13)   
  &nbsp; &nbsp; 8:30    Arrival and coffee  
  &nbsp; &nbsp; 9:00   Introductions  
  &nbsp; &nbsp; 9:30   Presentations by registry and repository editors  
@@ -24,7 +24,7 @@
  &nbsp; &nbsp; 5:30    End session  
  &nbsp; &nbsp; 7:00    Workshop dinner
 
-### Day 2 (Thursday, November 14)    
+### Day 2 (Thursday, Nov. 14)    
  &nbsp; &nbsp;   8:30    Arrival and coffee  
   &nbsp; &nbsp;  9:00    Presentations by registry and repository editors  
   &nbsp; &nbsp;  9:30    Break-out groups  
