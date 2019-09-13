@@ -4,6 +4,8 @@
  &nbsp; &nbsp;Andre Jackson, DDMORE  
  &nbsp; &nbsp;Anita E Bandrowski, UCSD/SciCrunch Inc  
  &nbsp; &nbsp;Carly Robinson, Department of Energy - Office of Scientific and Technical Information   
+ &nbsp; &nbsp;Dan Katz, University of Illinois at Urbana-Champaign  
+ &nbsp; &nbsp;Hervé Ménager,	Institut Pasteur  
  &nbsp; &nbsp;Lorraine Hwang, CIG/UC Davis  
  &nbsp; &nbsp;Michael Hucka, Caltech Library  
  &nbsp; &nbsp;Peter Teuben, University of Maryland  
@@ -14,4 +16,4 @@
  &nbsp; &nbsp;  
  &nbsp; &nbsp;  
    
-###### (as of 09/12/2019)
+###### (as of 09/13/2019)
