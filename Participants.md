@@ -10,9 +10,7 @@
  &nbsp; &nbsp;Shelley Stall, American Geophysical Union  
  &nbsp; &nbsp;Stephan Druskat, German Aerospace Center (DLR)/University Jena/Humboldt-Universität zu Berlin  
  &nbsp; &nbsp;Tom Morrell, Caltech Library  
-   
- &nbsp; &nbsp;  
- &nbsp; &nbsp;   
+     
  &nbsp; &nbsp;  
  &nbsp; &nbsp;  
    
