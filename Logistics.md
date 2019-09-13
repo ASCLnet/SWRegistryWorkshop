@@ -12,7 +12,7 @@ It's a short walk from the hotel to the Physical Sciences Complex:
 
 
 ### Dining 
-College Park is a college town; you do not lack for choices in places to eat! For “Maryland-style” pizza, the place to go is The Original Ledo Restaurant (Ledo’s to locals); this pizza is consistently rated the best in the DC area and is what people who moved away want to eat when visiting the area.
+College Park is a college town; you do not lack for choices in places to eat! For “Maryland-style” pizza, the place to go is The Original Ledo Restaurant (Ledo’s to locals); this pizza is consistently rated the best in the DC area and is what people who moved away want to eat when visiting the area. See the [Dining PDF](https://github.com/ASCLnet/SWRegistryWorkshop/blob/master/CollegeParkDining.pdf) for details. 
 
 **In the PSC**  
 Quantum Café: Quick grab-and-go sandwiches, salads, muffins, coffee, etc., 1st floor in lobby
