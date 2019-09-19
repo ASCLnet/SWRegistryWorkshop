@@ -47,4 +47,8 @@
  &nbsp; &nbsp;   3:00    Break-out groups or discussion, depending on input from attendees  
  &nbsp; &nbsp;   5:00    Recap, next steps, and workshop evaluation  
  &nbsp; &nbsp;   5:30    End session  
-
+  &nbsp; &nbsp;   
+  &nbsp; &nbsp;    
+  &nbsp; &nbsp;    
+  &nbsp; &nbsp;  
+##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html) | [Participants](https://asclnet.github.io/SWRegistryWorkshop/Participants.html)   
