@@ -14,7 +14,12 @@
  &nbsp; &nbsp;Stephan Druskat, German Aerospace Center (DLR)/University Jena/Humboldt-Universität zu Berlin  
  &nbsp; &nbsp;Tom Morrell, Caltech Library  
      
- &nbsp; &nbsp;  
- &nbsp; &nbsp;  
+
    
-###### (as of 09/16/2019)
+<sub><sup> (as of 09/16/2019) </sup></sub>
+
+  &nbsp; &nbsp;   
+  &nbsp; &nbsp;    
+  &nbsp; &nbsp;    
+  &nbsp; &nbsp;  
+##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Agenda](https://asclnet.github.io/SWRegistryWorkshop/Agenda.html) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html)   
