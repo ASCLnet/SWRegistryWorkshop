@@ -3,6 +3,7 @@
  &nbsp; &nbsp;Allen Lee, Arizona State University/CoMSES Net  
  &nbsp; &nbsp;Andre Jackson, DDMORE  
  &nbsp; &nbsp;Anita E Bandrowski, UCSD/SciCrunch Inc  
+ &nbsp; &nbsp;Bryce Mecum, National Center for Ecological Analysis and Synthesis, UC Santa Barbara  
  &nbsp; &nbsp;Carly Robinson, Department of Energy - Office of Scientific and Technical Information   
  &nbsp; &nbsp;Dan Katz, University of Illinois at Urbana-Champaign  
  &nbsp; &nbsp;Daniel Garijo, University of Southern California  
@@ -16,7 +17,7 @@
      
 
    
-<sub><sup> (as of 09/16/2019) </sup></sub>
+<sub><sup> (as of 09/21/2019) </sup></sub>
 
   &nbsp; &nbsp;   
   &nbsp; &nbsp;    
