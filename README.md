@@ -17,9 +17,7 @@ This workshop is the first effort focused specifically on and for discipline-spe
 
 ### [Logistics](Logistics.md)  
 
-### Participants
-
-Due to limited space, [participation](Participants.md) is by invitation.
+### [Participants](Participants.md)
 
 ### Funding  
 This workshop is made possible by support from the [Alfred P. Sloan Foundation](https://sloan.org/); we are grateful for their support.
