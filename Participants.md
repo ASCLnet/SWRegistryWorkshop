@@ -9,7 +9,8 @@
  &nbsp; &nbsp;Caifan Du, University of Texas at Austin: [CiteAs](http://citeas.org/)  
  &nbsp; &nbsp;Carly Robinson, Department of Energy: [Office of Scientific and Technical Information](https://www.osti.gov/)  
  &nbsp; &nbsp;Daniel Katz, University of Illinois at Urbana-Champaign: [Force11 Software Citation Implementation Working Group](https://www.force11.org/group/software-citation-implementation-working-group)  
- &nbsp; &nbsp;Daniel Garijo, University of Southern California: [OntoSoft](http://www.ontosoft.org/)    
+ &nbsp; &nbsp;Daniel Garijo, University of Southern California: [OntoSoft](http://www.ontosoft.org/)  
+ &nbsp; &nbsp;Genevieve Milliken, New York University: [IASGE](https://investigating-archiving-git.gitlab.io/)    
  &nbsp; &nbsp;Hervé Ménager,	Institut Pasteur: [ELIXIR bio.tools](https://bio.tools/)  
  &nbsp; &nbsp;Lorraine Hwang, UC Davis: [Computational Infrastructure for Geodynamics](https://geodynamics.org/)  
  &nbsp; &nbsp;Michael Hucka, Caltech Library: [Systems Biology Markup Language](http://sbml.org/Main_Page)  
@@ -20,7 +21,7 @@
      
 
    
-<sub><sup> (as of 10/07/2019) </sup></sub>
+<sub><sup> (as of 10/10/2019) </sup></sub>
 
   &nbsp; &nbsp;   
   &nbsp; &nbsp;    
