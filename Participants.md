@@ -17,11 +17,12 @@
  &nbsp; &nbsp;Peter Teuben, University of Maryland: [Astrophysics Source Code Library](http://ascl.net/)  
  &nbsp; &nbsp;Shelley Stall, American Geophysical Union: [AGU Data Services](https://www.agu.org/Learn-About-AGU/About-AGU/Data-Leadership)    
  &nbsp; &nbsp;Stephan Druskat, German Aerospace Center (DLR)/University Jena/Humboldt-Universität zu Berlin: [Citation File Format](https://citation-file-format.github.io/)  
+ &nbsp; &nbsp;Ted Carmevale,	Neuroscience Department, Yale: [ModelDB](https://senselab.med.yale.edu/modeldb/)  
  &nbsp; &nbsp;Thomas Morrell, Caltech Library: [CaltechDATA](https://data.caltech.edu/)  
      
 
    
-<sub><sup> (as of 10/10/2019) </sup></sub>
+<sub><sup> (as of 10/12/2019) </sup></sub>
 
   &nbsp; &nbsp;   
   &nbsp; &nbsp;    
