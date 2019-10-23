@@ -13,6 +13,7 @@
  &nbsp; &nbsp;Daniel Garijo, University of Southern California: [OntoSoft](http://www.ontosoft.org/)  
  &nbsp; &nbsp;Genevieve Milliken, New York University: [IASGE](https://investigating-archiving-git.gitlab.io/)    
  &nbsp; &nbsp;Hervé Ménager,	Institut Pasteur: [ELIXIR bio.tools](https://bio.tools/)  
+ &nbsp; &nbsp;Katrina Fenlon,	University of Maryland: [iSchool](https://ischool.umd.edu/)  
  &nbsp; &nbsp;Lorraine Hwang, UC Davis: [Computational Infrastructure for Geodynamics](https://geodynamics.org/)  
  &nbsp; &nbsp;Michael Hucka, Caltech Library: [Systems Biology Markup Language](http://sbml.org/Main_Page)  
  &nbsp; &nbsp;Peter Teuben, University of Maryland: [Astrophysics Source Code Library](http://ascl.net/)  
@@ -23,7 +24,7 @@
      
 
    
-<sub><sup> (as of 10/15/2019) </sup></sub>
+<sub><sup> (as of 10/23/2019) </sup></sub>
 
   &nbsp; &nbsp;   
   &nbsp; &nbsp;    
