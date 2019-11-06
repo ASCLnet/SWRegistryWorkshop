@@ -9,9 +9,13 @@
   &nbsp; &nbsp; &nbsp; &nbsp; - Alex Ioannidis, [Zenodo](https://zenodo.org/)  
   &nbsp; &nbsp; &nbsp; &nbsp; - Jurriaan Spaaks, [Research Software Directory](https://www.research-software.nl/)    
  &nbsp; &nbsp;10:20    Coffee/tea break  
- &nbsp; &nbsp;10:35    Break-out groups  
- &nbsp; &nbsp; &nbsp; &nbsp; - Finalizing sections of the Best Practices  
- &nbsp; &nbsp;11:45    Report from break-out groups  
+ &nbsp; &nbsp;10:35    Best Practices for Research Software Registries break-out groups  
+ &nbsp; &nbsp; &nbsp; &nbsp; - Repository Scope statement and Retention Policy  
+ &nbsp; &nbsp; &nbsp; &nbsp; - Metadata Schema and Conditions of Use Policy  
+ &nbsp; &nbsp; &nbsp; &nbsp; - End-of-life Policy  
+ &nbsp; &nbsp; &nbsp; &nbsp; - Privacy Policy   
+ &nbsp; &nbsp; &nbsp; &nbsp; - Ethics/Authorship Policy   
+ &nbsp; &nbsp;11:45    Report from break-out groups and status of Best Practices  (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
  &nbsp; &nbsp;12:15    Lunch break  
  &nbsp; &nbsp; 1:15    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
  &nbsp; &nbsp; &nbsp; &nbsp; - Lorraine Hwang, [Computational Infrastructure for Geodynamics](https://geodynamics.org/)  
