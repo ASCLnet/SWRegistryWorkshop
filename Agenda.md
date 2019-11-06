@@ -1,5 +1,5 @@
 ## Agenda  
-### Wednesday, Nov. 13    
+### Wednesday, November 13    
  &nbsp; &nbsp; 8:30    Arrival and coffee  
  &nbsp; &nbsp; 9:00   Introductions  
  &nbsp; &nbsp; 9:30   Presentations    
@@ -37,7 +37,7 @@
  &nbsp; &nbsp; 5:30    End session  
  &nbsp; &nbsp; 7:00    Workshop dinner
 
-### Thursday, Nov. 14     
+### Thursday, November 14     
  &nbsp; &nbsp;   8:30    Arrival and coffee  
   &nbsp; &nbsp;  9:00    Session start    
   &nbsp; &nbsp;  9:05    Presentation  
