@@ -39,9 +39,9 @@
 
 ### Thursday, November 14     
  &nbsp; &nbsp;   8:30    Arrival and coffee  
-  &nbsp; &nbsp;  9:00    Session start    
-  &nbsp; &nbsp;  9:05    Presentation (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
-  &nbsp; &nbsp; &nbsp; &nbsp; - Carly Robinson, Department of Energy: [Office of Scientific and Technical Information](https://www.osti.gov/)     
+ &nbsp; &nbsp;  9:00    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
+ &nbsp; &nbsp; &nbsp; &nbsp; - Carly Robinson, [Office of Scientific and Technical Information](https://www.osti.gov/)     
+  &nbsp; &nbsp; &nbsp; &nbsp; - Thomas Morrell, [CaltechDATA](https://data.caltech.edu/)  
   &nbsp; &nbsp;  9:20    Break-out groups  
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; Possibilities include:    
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Developing CodeMeta files for software author use  
