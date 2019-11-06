@@ -49,7 +49,7 @@
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Adopting better practices  
 &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Building a marketing plan  
  &nbsp; &nbsp; 10:30    Coffee/tea break  
- &nbsp; &nbsp; 10:45    Temperature taking (how’s the workshop going? Do we need to revisit something? Spend more time on something?)  
+ &nbsp; &nbsp; 10:45    Temperature taking (how’s the workshop going? Do we need to revisit or spend more time on something?)  
  &nbsp; &nbsp; 11:00    Continuation of break-out groups  
  &nbsp; &nbsp; 12:15    Lunch break  
  &nbsp; &nbsp;   1:15    Open discussion on topics suggested or selected by attendees   
