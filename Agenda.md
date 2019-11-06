@@ -1,5 +1,5 @@
 ## Agenda  
-### Day 1 (Wednesday, Nov. 13)   
+### Wednesday, Nov. 13    
  &nbsp; &nbsp; 8:30    Arrival and coffee  
  &nbsp; &nbsp; 9:00   Introductions  
  &nbsp; &nbsp; 9:30   Presentations    
@@ -37,10 +37,12 @@
  &nbsp; &nbsp; 5:30    End session  
  &nbsp; &nbsp; 7:00    Workshop dinner
 
-### Day 2 (Thursday, Nov. 14)    
+### Thursday, Nov. 14     
  &nbsp; &nbsp;   8:30    Arrival and coffee  
-  &nbsp; &nbsp;  9:00    Presentations by registry and repository editors  
-  &nbsp; &nbsp;  9:30    Break-out groups  
+  &nbsp; &nbsp;  9:00    Session start    
+  &nbsp; &nbsp;  9:05    Presentation  
+  &nbsp; &nbsp; &nbsp; &nbsp; - Carly Robinson, Department of Energy: [Office of Scientific and Technical Information](https://www.osti.gov/)     
+  &nbsp; &nbsp;  9:20    Break-out groups  
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; Possibilities include:    
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Developing CodeMeta files for software author use  
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Developing CFF files for software author use  
