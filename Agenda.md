@@ -2,7 +2,7 @@
 ### Wednesday, November 13    
  &nbsp; &nbsp; 8:30    Arrival and coffee  
  &nbsp; &nbsp; 9:00   Introductions  
- &nbsp; &nbsp; 9:30   Presentations    
+ &nbsp; &nbsp; 9:30   Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
   &nbsp; &nbsp; &nbsp; &nbsp; - Hervé Ménager, [ELIXIR bio.tools](https://bio.tools/)   
   &nbsp; &nbsp; &nbsp; &nbsp; - Ted Carnevale, [ModelDB](https://senselab.med.yale.edu/modeldb/)   
   &nbsp; &nbsp; &nbsp; &nbsp; - Anita E Bandrowski, [SciCrunch Inc](https://scicrunch.org/)   
@@ -13,7 +13,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp; - Finalizing sections of the Best Practices  
  &nbsp; &nbsp;11:45    Report from break-out groups  
  &nbsp; &nbsp;12:15    Lunch break  
- &nbsp; &nbsp; 1:15    Presentations    
+ &nbsp; &nbsp; 1:15    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
  &nbsp; &nbsp; &nbsp; &nbsp; - Lorraine Hwang, [Computational Infrastructure for Geodynamics](https://geodynamics.org/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - Daniel Garijo, [OntoSoft](http://www.ontosoft.org/)   
  &nbsp; &nbsp; &nbsp; &nbsp; - Caifan Du, [CiteAs](http://citeas.org/)  
@@ -28,7 +28,7 @@
  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; What technique/process/habit/requirement has been successful for your resource?  
  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; What solutions already exist that we might leverage?  
  &nbsp; &nbsp; 3:45    State of software citation amongst assembled resources  
- &nbsp; &nbsp; 4:15    Overview of CodeMeta and Citation File Format  
+ &nbsp; &nbsp; 4:15    Overview of CodeMeta and Citation File Format (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
  &nbsp; &nbsp; &nbsp; &nbsp; - 4:15-4:25    Stephan Druskat, [Citation File Format](https://citation-file-format.github.io/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - 4:25-4:35    Bryce Mecum, [CodeMeta](https://codemeta.github.io/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - 4:35-5:15    Activities: Crosswalking our resources and Metadata Bingo  
@@ -40,7 +40,7 @@
 ### Thursday, November 14     
  &nbsp; &nbsp;   8:30    Arrival and coffee  
   &nbsp; &nbsp;  9:00    Session start    
-  &nbsp; &nbsp;  9:05    Presentation  
+  &nbsp; &nbsp;  9:05    Presentation (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
   &nbsp; &nbsp; &nbsp; &nbsp; - Carly Robinson, Department of Energy: [Office of Scientific and Technical Information](https://www.osti.gov/)     
   &nbsp; &nbsp;  9:20    Break-out groups  
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; Possibilities include:    
