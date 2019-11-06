@@ -32,7 +32,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp; - 4:15-4:25    Stephan Druskat, [Citation File Format](https://citation-file-format.github.io/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - 4:25-4:35    Bryce Mecum, [CodeMeta](https://codemeta.github.io/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - 4:35-5:15    Activities: Crosswalking our resources and Metadata Bingo  
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Discussion: Creating software citation files for software authors’ use  
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Discussion: Creating software citation files for software authors’ use  
  &nbsp; &nbsp; 5:15    Temperature taking (how’s the workshop going?), recap, and overview of day 2 agenda  
  &nbsp; &nbsp; 5:30    End session  
  &nbsp; &nbsp; 7:00    Workshop dinner
