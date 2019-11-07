@@ -64,6 +64,7 @@
  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; - Managing our respective resources effectively  
  &nbsp; &nbsp;  2:45    Coffee/tea break  
  &nbsp; &nbsp;   3:00    Break-out groups or discussion, depending on input from attendees  
+ &nbsp; &nbsp;   _4:30	Report from break-out groups (if needed)_  
  &nbsp; &nbsp;   5:00    Recap and next steps  
  &nbsp; &nbsp;   5:20 Workshop improvement   
  &nbsp; &nbsp;   5:30    End session  
