@@ -1,6 +1,6 @@
 ## Agenda  
 ### Wednesday, November 13    
- &nbsp; &nbsp; 8:30    Arrival and coffee  
+ &nbsp; &nbsp; 8:30    Arrival and coffee/tea  
  &nbsp; &nbsp; 9:00   Introductions  
  &nbsp; &nbsp; 9:30   Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
   &nbsp; &nbsp; &nbsp; &nbsp; - Hervé Ménager, [ELIXIR bio.tools](https://bio.tools/)   
@@ -42,7 +42,7 @@
  &nbsp; &nbsp; 7:00    Workshop dinner
 
 ### Thursday, November 14     
- &nbsp; &nbsp;   8:30    Arrival and coffee  
+ &nbsp; &nbsp;   8:30    Arrival and coffee/tea  
  &nbsp; &nbsp;  9:00    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
  &nbsp; &nbsp; &nbsp; &nbsp; - Carly Robinson, [DOE Office of Scientific and Technical Information](https://www.osti.gov/)     
   &nbsp; &nbsp; &nbsp; &nbsp; - Tom Morrell, [CaltechDATA](https://data.caltech.edu/)  
