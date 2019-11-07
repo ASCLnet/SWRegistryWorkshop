@@ -1,6 +1,5 @@
 ## Participants    
  &nbsp; &nbsp;Alain Monteil,	INRIA: [HAL](https://hal.archives-ouvertes.fr/)/[Software Heritage](https://www.softwareheritage.org/)  
- &nbsp; &nbsp;Alejandra Gonzalez-Beltran,	[Science and Technology Facilities Council](https://stfc.ukri.org/)  
  &nbsp; &nbsp;Alexandros Ioannidis, CERN: [Zenodo](https://zenodo.org/)  
  &nbsp; &nbsp;Alice Allen, University of Maryland: [Astrophysics Source Code Library](http://ascl.net/)  
  &nbsp; &nbsp;Allen Lee, Arizona State University: [CoMSES Net](https://www.comses.net/)  
@@ -27,7 +26,7 @@
      
 
    
-<sub><sup> (as of 10/30/2019) </sup></sub>
+<sub><sup> (as of 11/07/2019) </sup></sub>
 
   &nbsp; &nbsp;   
   &nbsp; &nbsp;    
