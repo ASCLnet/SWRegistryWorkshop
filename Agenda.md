@@ -17,14 +17,14 @@
  &nbsp; &nbsp; &nbsp; &nbsp; - Ethics/Authorship Policy   
  &nbsp; &nbsp;11:45    Report from break-out groups and status of Best Practices  (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
  &nbsp; &nbsp;12:15    Lunch break  
- &nbsp; &nbsp; 1:15    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
+ &nbsp; &nbsp; 1:30    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
  &nbsp; &nbsp; &nbsp; &nbsp; - Lorraine Hwang, [Computational Infrastructure for Geodynamics](https://geodynamics.org/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - Daniel Garijo, [OntoSoft](http://www.ontosoft.org/)   
  &nbsp; &nbsp; &nbsp; &nbsp; - Caifan Du, [CiteAs](http://citeas.org/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - Allen Lee, [CoMSES Net](https://www.comses.net/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - Alice Allen, [Astrophysics Source Code Library](http://ascl.net/)  
- &nbsp; &nbsp; 2:30    Coffee/tea break  
- &nbsp; &nbsp; 2:45    Group discussion  
+ &nbsp; &nbsp; 2:20    Coffee/tea break  
+ &nbsp; &nbsp; 2:40    Group discussion  
  &nbsp; &nbsp; &nbsp; &nbsp; - Shared challenges  
  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; What are they?  
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; How might we work together to mitigate these?  
