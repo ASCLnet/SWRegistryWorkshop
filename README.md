@@ -15,6 +15,8 @@ This workshop is the first effort focused specifically on and for discipline-spe
 
 ### [Agenda](Agenda.md)
 
+### [Remote access](RemoteAccess.md)
+
 ### [Logistics](Logistics.md)  
 
 ### [Participants](Participants.md)
