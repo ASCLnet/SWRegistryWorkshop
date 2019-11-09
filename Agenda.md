@@ -10,7 +10,7 @@
   &nbsp; &nbsp; &nbsp; &nbsp; - Jurriaan Spaaks, [Research Software Directory](https://www.research-software.nl/)    
  &nbsp; &nbsp;10:20    Coffee/tea break  
  &nbsp; &nbsp;10:35    [Best Practices for Research Software Registries](https://drive.google.com/drive/folders/1QGip9QEy_8D2-5F1teK4XSAtDwry69Kr?usp=sharing) break-out groups  
- &nbsp; &nbsp; &nbsp; &nbsp; - [Repository Scope statement](https://docs.google.com/document/d/1Rg6eZmgbh2PiqXSnq1VT7ITX67cjCuNCZxjEiGsu77I/edit?usp=sharing) and [Retention Policy](https://docs.google.com/document/d/1xjhvkxDNhxIkLom1bwtnc0jCzSsRojjIh_YNWq0WuKg/edit?usp=sharing)
+ &nbsp; &nbsp; &nbsp; &nbsp; - [Repository Scope statement](https://docs.google.com/document/d/1Rg6eZmgbh2PiqXSnq1VT7ITX67cjCuNCZxjEiGsu77I/edit?usp=sharing) and [Retention Policy](https://docs.google.com/document/d/1xjhvkxDNhxIkLom1bwtnc0jCzSsRojjIh_YNWq0WuKg/edit?usp=sharing)  
  &nbsp; &nbsp; &nbsp; &nbsp; - [Metadata Schema](https://docs.google.com/document/d/1d8_mw_0o9u0U6DJFUh83P8bB-ir3L0fFDxaHDG9X80I/edit?usp=sharing) and [Conditions of Use Policy](https://docs.google.com/document/d/1UV-Ayg6Kx0PcRvODPE0EQH15yTWuDeJKiwHx_TphW2c/edit?usp=sharing)  
  &nbsp; &nbsp; &nbsp; &nbsp; - [End-of-life Policy](https://docs.google.com/document/d/15DMms2Icw8glzQFCTftGdMCdBsnUae67iNLJ1TMl684/edit?usp=sharing)  
  &nbsp; &nbsp; &nbsp; &nbsp; - [Privacy Policy](https://docs.google.com/document/d/1KI8kv_TvlX5iTZPgBHINm9uxe3BSRlPLhJ1aS78pAWc/edit?usp=sharing)   
