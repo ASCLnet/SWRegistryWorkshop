@@ -1,5 +1,6 @@
 ### Dates and location
 #### Nov. 13-14, 2019 &#9830; University of Maryland, College Park &#9830; Physical Sciences Complex Room 1136
+#### Twitter: #scicodes  
 
 ### Purpose
 
