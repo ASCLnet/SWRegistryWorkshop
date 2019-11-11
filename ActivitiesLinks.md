@@ -1,4 +1,4 @@
-This page contains links to folders and files that will be used during the workshop.   
+This page contains links to folders and files that will be used during the workshop. Remote access links are [here](https://asclnet.github.io/SWRegistryWorkshop/RemoteAccess.html).   
 
 #### [Folder: Best practices](https://drive.google.com/open?id=1QGip9QEy_8D2-5F1teK4XSAtDwry69Kr)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Repository scope statement](https://drive.google.com/open?id=1Rg6eZmgbh2PiqXSnq1VT7ITX67cjCuNCZxjEiGsu77I)  
