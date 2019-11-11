@@ -25,7 +25,7 @@ As the workshop has an element of unconferencing, it’s possible that additiona
 
 ### Thursday, November 14     
  &nbsp; &nbsp;  9:00    Presentations  
- &nbsp; &nbsp; &nbsp; &nbsp; - Carly Robinson, [DOE Office of Scientific and Technical Information](https://www.osti.gov/)     
+ &nbsp; &nbsp; &nbsp; &nbsp; - Carly Robinson, [DOE CODE: Software Services Platform and Search Tool](https://www.osti.gov/doecode/)      
  &nbsp; &nbsp; &nbsp; &nbsp; - Tom Morrell, [CaltechDATA](https://data.caltech.edu/)  
   &nbsp; &nbsp;   
   &nbsp; &nbsp;    
