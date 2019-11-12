@@ -25,3 +25,8 @@ This page contains links to folders and files that will be used during the works
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SciCrunch](https://drive.google.com/open?id=1h8egMmV48orcIIBv_NYh_-ugdvzel9eU)  
 
 **[CodeMeta properties](https://github.com/codemeta/codemeta/blob/master/properties_description.csv)**
+
+#### [Folder: Workshop breakout group work](https://drive.google.com/drive/folders/1lzz70jV7VOcjAdLSKBbO2IdToFLvsByf?usp=sharing)  
+
+
+
