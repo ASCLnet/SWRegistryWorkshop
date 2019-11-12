@@ -11,7 +11,7 @@ This workshop is the first effort focused specifically on and for discipline-spe
 ### Organizers
 - [Alice Allen, ASCL/UMD](http://ascl.net/wordpress/about-ascl/people/alice_allen/), aallen@ascl.net
 - [Tom Morrell, Caltech](https://www.library.caltech.edu/person/tom-morrell)
-- [Michael Hucka, Caltech](https://www.library.caltech.edu/person/michael-hucka)
+- [Michael Hucka, Caltech](http://www.cds.caltech.edu/~mhucka/)
 - [Stephen Davison, Caltech](https://www.library.caltech.edu/person/stephen-davison)
 
 ### [Agenda](Agenda.md)
