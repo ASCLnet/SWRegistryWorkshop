@@ -21,7 +21,7 @@ This page contains links to folders and files that will be used during the works
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [DOECODE](https://drive.google.com/open?id=15C93EfkVX8W1sKWQYjsfJmuLJvLQf4bg)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [eScience Research Software Directory](https://drive.google.com/open?id=11NqpLI7mYvZ0GR6XEvevPzQPxeWpB_S1)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ModelDB](https://drive.google.com/open?id=1qiBmWjvpr9uZVgVwcAIz3XpdAMe9S3hN)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SMBL](https://drive.google.com/open?id=1dI0xLabp1KypuDWARTm4MXa7NFURxGao)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SBML](https://drive.google.com/open?id=1dI0xLabp1KypuDWARTm4MXa7NFURxGao)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [SciCrunch](https://drive.google.com/open?id=1h8egMmV48orcIIBv_NYh_-ugdvzel9eU)  
 
 **[CodeMeta properties](https://github.com/codemeta/codemeta/blob/master/properties_description.csv)**
