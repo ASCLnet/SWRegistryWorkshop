@@ -32,4 +32,4 @@
   &nbsp; &nbsp;    
   &nbsp; &nbsp;    
   &nbsp; &nbsp;  
-##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Agenda](https://asclnet.github.io/SWRegistryWorkshop/Agenda.html) | [Remote access](https://asclnet.github.io/SWRegistryWorkshop/RemoteAccess.html) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html)   
+##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Agenda](https://asclnet.github.io/SWRegistryWorkshop/Agenda.html) | [Remote access](https://asclnet.github.io/SWRegistryWorkshop/RemoteAccess.html) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html) | [Activities links](https://asclnet.github.io/SWRegistryWorkshop/#links-for-workshop-activities)   
