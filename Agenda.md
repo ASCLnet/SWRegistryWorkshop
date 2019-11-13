@@ -6,7 +6,6 @@
   &nbsp; &nbsp; &nbsp; &nbsp; - Hervé Ménager, [ELIXIR bio.tools](https://bio.tools/)   
   &nbsp; &nbsp; &nbsp; &nbsp; - Ted Carnevale, [ModelDB](https://senselab.med.yale.edu/modeldb/)   
   &nbsp; &nbsp; &nbsp; &nbsp; - Anita E Bandrowski, [SciCrunch Inc](https://scicrunch.org/)   
-  &nbsp; &nbsp; &nbsp; &nbsp; - Alex Ioannidis, [Zenodo](https://zenodo.org/)  
   &nbsp; &nbsp; &nbsp; &nbsp; - Jurriaan Spaaks, [Research Software Directory](https://www.research-software.nl/)    
  &nbsp; &nbsp;10:20    Coffee/tea break  
  &nbsp; &nbsp;10:35    [Best Practices for Research Software Registries](https://drive.google.com/drive/folders/1QGip9QEy_8D2-5F1teK4XSAtDwry69Kr?usp=sharing) break-out groups  
@@ -22,7 +21,7 @@
  &nbsp; &nbsp; &nbsp; &nbsp; - Daniel Garijo, [OntoSoft](http://www.ontosoft.org/)   
  &nbsp; &nbsp; &nbsp; &nbsp; - Caifan Du, [CiteAs](http://citeas.org/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - Allen Lee, [CoMSES Net](https://www.comses.net/)  
- &nbsp; &nbsp; &nbsp; &nbsp; - Alice Allen, [Astrophysics Source Code Library](http://ascl.net/)  
+ &nbsp; &nbsp; &nbsp; &nbsp; - Alex Ioannidis, [Zenodo](https://zenodo.org/)    
  &nbsp; &nbsp; 2:20    Coffee/tea break  
  &nbsp; &nbsp; 2:40    Group discussion  
  &nbsp; &nbsp; &nbsp; &nbsp; - Shared challenges  
