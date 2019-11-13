@@ -28,5 +28,9 @@ This page contains links to folders and files that will be used during the works
 
 #### [Folder: Workshop breakout group work](https://drive.google.com/drive/folders/1lzz70jV7VOcjAdLSKBbO2IdToFLvsByf?usp=sharing)  
 
-
+ &nbsp; &nbsp;   
+  &nbsp; &nbsp;    
+  &nbsp; &nbsp;    
+  &nbsp; &nbsp; 
+##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Agenda](https://asclnet.github.io/SWRegistryWorkshop/Agenda.html) | [Remote access](https://asclnet.github.io/SWRegistryWorkshop/#remote-access) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html) | [Participants](https://asclnet.github.io/SWRegistryWorkshop/Participants.html)   
 
