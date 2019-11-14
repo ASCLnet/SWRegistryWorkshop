@@ -24,6 +24,8 @@ This workshop is the first effort focused specifically on and for discipline-spe
 
 ### [Links for workshop activities](ActivitiesLinks.md)
 
+### [Workshop Evaluation](https://forms.gle/ksjx6o6pNkbS8gsSA)  
+
 ### Funding  
 This workshop is made possible by support from the [Alfred P. Sloan Foundation](https://sloan.org/); we are grateful for their support.   
 
