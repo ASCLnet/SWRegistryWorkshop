@@ -8,6 +8,10 @@ This two-day workshop for editors and maintainers of academic discipline and ins
 
 This workshop is the first effort focused specifically on and for discipline-specific software registries and repositories and leverages other ongoing efforts to improve software citation, including the work of the [FORCE11 Software Citation Implementation Working Group](https://github.com/force11/force11-sciwg), [Working toward Sustainable Software for Science: Practice and Experience (WSSSPE)](http://wssspe.researchcomputing.org.uk/), and the [CodeMeta](https://codemeta.github.io/) and [Citation File Format](https://citation-file-format.github.io/) projects.
 
+<p align="center"
+<img width="100%" src="assets/media/group-photo-merged.png">
+</p>
+
 ### Organizers
 - [Alice Allen, ASCL/UMD](http://ascl.net/wordpress/about-ascl/people/alice_allen/), aallen@ascl.net
 - [Tom Morrell, Caltech](https://www.library.caltech.edu/person/tom-morrell)
