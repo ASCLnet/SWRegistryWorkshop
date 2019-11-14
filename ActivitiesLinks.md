@@ -30,6 +30,8 @@ This page contains links to folders and files that will be used during the works
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Crosswalk to CodeMeta](https://docs.google.com/document/d/1xlGGYgfu9lhqVY0TiIzqw-rJpTU-DCtOM0bIQnXXTUs/edit?usp=sharing)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Standards and API for registries to form a Virtual Code Repository](https://docs.google.com/document/d/12Te_fTgQiobHmIdW4IGcxz8rcxcmz4PNL-jy-bbWaPs/edit)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [FAQ](https://docs.google.com/document/d/13TYHvzdO3UpD46G3t1GaJRzD2MgjHH7a7J5pzDn0cCQ/edit)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Folder: Software Metadata Value Statement](https://drive.google.com/open?id=1JSKLCeOPjfKUDxyevuFzZK2HuvlRFMgs)
+    
 
 
  &nbsp; &nbsp;   
