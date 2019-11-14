@@ -31,7 +31,8 @@ This page contains links to folders and files that will be used during the works
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Standards and API for registries to form a Virtual Code Repository](https://docs.google.com/document/d/12Te_fTgQiobHmIdW4IGcxz8rcxcmz4PNL-jy-bbWaPs/edit)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Good enough software citation workflow (Automated Zenodo metadata integration)](https://docs.google.com/document/d/1RAuZcZiOMS7iddhdzphmKhs3vZTcbe2Bicz_cUT7CGs/edit?usp=sharing)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [FAQ](https://docs.google.com/document/d/13TYHvzdO3UpD46G3t1GaJRzD2MgjHH7a7J5pzDn0cCQ/edit)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Folder: Software Metadata Value Statement](https://drive.google.com/open?id=1JSKLCeOPjfKUDxyevuFzZK2HuvlRFMgs)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Links to download full metadata from various registries](https://docs.google.com/document/d/1O63tK7jBHetWw30ef5cq72LI78sSxOTTEmq2OMsjZcA/edit)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Folder: Software Metadata Value Statement](https://drive.google.com/open?id=1JSKLCeOPjfKUDxyevuFzZK2HuvlRFMgs)  
     
 
 
