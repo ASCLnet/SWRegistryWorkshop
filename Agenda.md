@@ -56,15 +56,14 @@
  &nbsp; &nbsp; 10:45    Temperature taking (how’s the workshop going? Do we need to revisit or spend more time on something?)  
  &nbsp; &nbsp; 11:00    Continuation of break-out groups  
  &nbsp; &nbsp; 12:15    Lunch break  
- &nbsp; &nbsp;   1:15    Open discussion on topics suggested or selected by attendees   
-  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; Possibilities include:  
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; - Working with publishers & indexers to improve software citation  
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; - Marketing our resources to developers & users  
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; - Working with institutions to improve career paths for those who write research software  
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; - Managing our respective resources effectively  
- &nbsp; &nbsp;  2:45    Coffee/tea break  
- &nbsp; &nbsp;   3:00    Break-out groups or discussion, depending on input from attendees  
- &nbsp; &nbsp;   _4:30	Report from break-out groups (if needed)_  
+ &nbsp; &nbsp;   1:15    Report back from morning's break-out groups  
+ &nbsp; &nbsp;   2:30    Workshop photo and coffee/tea break  
+ &nbsp; &nbsp;   2:45    Break-out groups  
+&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Improving CodeMeta documentation  
+&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - CFF/CodeMeta/Zenodo matchup: A workflow  
+&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Registry guidance for users: Possible examples for User Guidance best practice    
+&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Best practices documentation clean-up  
+ &nbsp; &nbsp;   4:30	Report from break-out groups    
  &nbsp; &nbsp;   5:00    Recap and next steps  
  &nbsp; &nbsp;   5:20 Workshop improvement   
  &nbsp; &nbsp;   5:30    End session  
