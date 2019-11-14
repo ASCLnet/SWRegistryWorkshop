@@ -45,7 +45,8 @@
  &nbsp; &nbsp;  9:00    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
  &nbsp; &nbsp; &nbsp; &nbsp; - Carly Robinson, [DOE CODE: Software Services Platform and Search Tool](https://www.osti.gov/doecode/)     
   &nbsp; &nbsp; &nbsp; &nbsp; - Tom Morrell, [CaltechDATA](https://data.caltech.edu/)  
-  &nbsp; &nbsp;  9:20    Break-out groups  
+   &nbsp; &nbsp; &nbsp; &nbsp; - Alice Allen, [Astrophysics Source Code Library](https://ascl.net)  
+  &nbsp; &nbsp;  9:30    Break-out groups  
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; Possibilities include:    
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Developing CodeMeta files for software author use  
   &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Developing CFF files for software author use  
