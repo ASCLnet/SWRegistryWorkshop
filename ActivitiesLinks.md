@@ -34,7 +34,7 @@ This page contains links to folders and files that will be used during the works
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Links to download full metadata from various registries](https://docs.google.com/document/d/1O63tK7jBHetWw30ef5cq72LI78sSxOTTEmq2OMsjZcA/edit)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Folder: Software Metadata Value Statement](https://drive.google.com/open?id=1JSKLCeOPjfKUDxyevuFzZK2HuvlRFMgs)  
     
-
+**[List of registry identifiers](https://docs.google.com/document/d/1V3SwijErtIqXssh-VI5ttAxzbd1294OZHBXrE-uJEvk/edit?usp=sharing):** Please add yours!
 
  &nbsp; &nbsp;   
   &nbsp; &nbsp;    
