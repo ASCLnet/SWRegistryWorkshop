@@ -57,12 +57,13 @@
  &nbsp; &nbsp; 11:00    Continuation of break-out groups  
  &nbsp; &nbsp; 12:15    Lunch break  
  &nbsp; &nbsp;   1:15    Report back from morning's break-out groups  
+ &nbsp; &nbsp;   2:20    Activity: [Links to download data from various registries](https://docs.google.com/document/d/1O63tK7jBHetWw30ef5cq72LI78sSxOTTEmq2OMsjZcA/edit)  
  &nbsp; &nbsp;   2:30    Workshop photo and coffee/tea break  
  &nbsp; &nbsp;   2:45    Break-out groups  
 &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Improving CodeMeta documentation  
-&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - CFF/CodeMeta/Zenodo matchup: A workflow  
+&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - [CFF/CodeMeta/Zenodo matchup: A workflow](https://docs.google.com/document/d/1RAuZcZiOMS7iddhdzphmKhs3vZTcbe2Bicz_cUT7CGs/edit?usp=sharing)    
 &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Registry guidance for users: Possible examples for User Guidance best practice    
-&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Best practices documentation clean-up  
+&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - [Best practices documentation clean-up](https://drive.google.com/drive/folders/1QGip9QEy_8D2-5F1teK4XSAtDwry69Kr)  
  &nbsp; &nbsp;   4:30	Report from break-out groups    
  &nbsp; &nbsp;   5:00    Recap and next steps  
  &nbsp; &nbsp;   5:20 Workshop improvement   
