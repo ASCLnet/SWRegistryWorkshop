@@ -3,7 +3,6 @@
  &nbsp; &nbsp;Alexandros Ioannidis, CERN: [Zenodo](https://zenodo.org/)  
  &nbsp; &nbsp;Alice Allen, University of Maryland: [Astrophysics Source Code Library](http://ascl.net/)  
  &nbsp; &nbsp;Allen Lee, Arizona State University: [CoMSES Net](https://www.comses.net/)  
- &nbsp; &nbsp;Andre Jackson: [DDMoRe Model Repository](http://repository.ddmore.eu/)  
  &nbsp; &nbsp;Anita E Bandrowski, UCSD: [SciCrunch Inc](https://scicrunch.org/)  
  &nbsp; &nbsp;Bryce Mecum, National Center for Ecological Analysis and Synthesis, UC Santa Barbara: [CodeMeta](https://codemeta.github.io/)  
  &nbsp; &nbsp;Caifan Du, University of Texas at Austin: [CiteAs](http://citeas.org/)  
