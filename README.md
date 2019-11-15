@@ -8,12 +8,12 @@ This two-day workshop for editors and maintainers of academic discipline and ins
 
 This workshop is the first effort focused specifically on and for discipline-specific software registries and repositories and leverages other ongoing efforts to improve software citation, including the work of the [FORCE11 Software Citation Implementation Working Group](https://github.com/force11/force11-sciwg), [Working toward Sustainable Software for Science: Practice and Experience (WSSSPE)](http://wssspe.researchcomputing.org.uk/), and the [CodeMeta](https://codemeta.github.io/) and [Citation File Format](https://citation-file-format.github.io/) projects.
 
-<img width="100%" src="assets/media/group-photo-merged-small.png">
+<img width="100%" src="assets/media/ssrcw-group-photo-2019-11-14-small.png">
 <br>
 <p align="center">
-<a href="assets/media/group-photo-merged-medium.png">(Larger image)</a>
+<a href="assets/media/ssrcw-group-photo-2019-11-14-medium.png">(Larger image)</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="assets/media/group-photo-merged.png">(Full-sized image)</a>
+<a href="assets/media/ssrcw-group-photo-2019-11-14-full.png">(Full-sized image)</a>
 </p>
 
 ### Organizers
