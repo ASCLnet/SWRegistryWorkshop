@@ -32,6 +32,8 @@ This workshop is the first effort focused specifically on and for discipline-spe
 
 ### [Links for workshop activities](ActivitiesLinks.md)
 
+### [Workshop and presentation slides](https://github.com/ASCLnet/SWRegistryWorkshop/tree/master/presentations)  
+
 ### [Workshop Evaluation](https://forms.gle/ksjx6o6pNkbS8gsSA)  
 
 ### Funding  
