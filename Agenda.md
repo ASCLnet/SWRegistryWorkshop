@@ -2,7 +2,8 @@
 ### Wednesday, November 13    
  &nbsp; &nbsp; 8:30    Arrival and coffee/tea  
  &nbsp; &nbsp; 9:00   Introductions  
- &nbsp; &nbsp; 9:30   Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
+ &nbsp; &nbsp; 9:30   Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
+&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; [Slides](https://github.com/ASCLnet/SWRegistryWorkshop/tree/master/presentations)  
   &nbsp; &nbsp; &nbsp; &nbsp; - Hervé Ménager, [ELIXIR bio.tools](https://bio.tools/)   
   &nbsp; &nbsp; &nbsp; &nbsp; - Ted Carnevale, [ModelDB](https://senselab.med.yale.edu/modeldb/)   
   &nbsp; &nbsp; &nbsp; &nbsp; - Anita E Bandrowski, [SciCrunch Inc](https://scicrunch.org/)   
@@ -16,7 +17,8 @@
  &nbsp; &nbsp; &nbsp; &nbsp; - [Ethics/Authorship Policy](https://docs.google.com/document/d/1plyUKoluONZOIySfiX22INf6bxNpgYslynXiDzOpNTY/edit?usp=sharing)     
  &nbsp; &nbsp;11:45    Report from break-out groups and status of Best Practices  (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
  &nbsp; &nbsp;12:15    Lunch break  
- &nbsp; &nbsp; 1:30    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))    
+ &nbsp; &nbsp; 1:30    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))   
+ &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; [Slides](https://github.com/ASCLnet/SWRegistryWorkshop/tree/master/presentations)    
  &nbsp; &nbsp; &nbsp; &nbsp; - Lorraine Hwang, [Computational Infrastructure for Geodynamics](https://geodynamics.org/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - Daniel Garijo, [OntoSoft](http://www.ontosoft.org/)   
  &nbsp; &nbsp; &nbsp; &nbsp; - Caifan Du, [CiteAs](http://citeas.org/)  
@@ -32,6 +34,7 @@
  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; What solutions already exist that we might leverage?  
  &nbsp; &nbsp; 3:45    State of software citation amongst assembled resources  
  &nbsp; &nbsp; 4:15    Overview of CodeMeta and Citation File Format (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
+ &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; [Slides](https://github.com/ASCLnet/SWRegistryWorkshop/tree/master/presentations)  
  &nbsp; &nbsp; &nbsp; &nbsp; - 4:15-4:25    Stephan Druskat, [Citation File Format](https://citation-file-format.github.io/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - 4:25-4:35    Bryce Mecum, [CodeMeta](https://codemeta.github.io/)  
  &nbsp; &nbsp; &nbsp; &nbsp; - 4:35-5:15    Activities: Crosswalking our resources and Metadata Bingo  
@@ -43,6 +46,7 @@
 ### Thursday, November 14     
  &nbsp; &nbsp;   8:30    Arrival and coffee/tea  
  &nbsp; &nbsp;  9:00    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
+ &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; [Slides](https://github.com/ASCLnet/SWRegistryWorkshop/tree/master/presentations)  
  &nbsp; &nbsp; &nbsp; &nbsp; - Carly Robinson, [DOE CODE: Software Services Platform and Search Tool](https://www.osti.gov/doecode/)     
   &nbsp; &nbsp; &nbsp; &nbsp; - Tom Morrell, [CaltechDATA](https://data.caltech.edu/)  
    &nbsp; &nbsp; &nbsp; &nbsp; - Alice Allen, [Astrophysics Source Code Library](https://ascl.net)  
