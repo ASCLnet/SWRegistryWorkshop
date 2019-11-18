@@ -50,15 +50,14 @@
  &nbsp; &nbsp; &nbsp; &nbsp; - Carly Robinson, [DOE CODE: Software Services Platform and Search Tool](https://www.osti.gov/doecode/)     
   &nbsp; &nbsp; &nbsp; &nbsp; - Tom Morrell, [CaltechDATA](https://data.caltech.edu/)  
    &nbsp; &nbsp; &nbsp; &nbsp; - Alice Allen, [Astrophysics Source Code Library](https://ascl.net)  
-  &nbsp; &nbsp;  9:30    Break-out groups  
-  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; Possibilities include:    
-  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Developing CodeMeta files for software author use  
-  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Developing CFF files for software author use  
-  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Adopting better practices  
-&nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Building a marketing plan  
+  &nbsp; &nbsp;  9:30    Discussion and Break-out groups    
+  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - [Developing CodeMeta files for software author use](https://drive.google.com/open?id=1xlGGYgfu9lhqVY0TiIzqw-rJpTU-DCtOM0bIQnXXTUs)  
+  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - [Software value metadata statement](https://drive.google.com/open?id=1JSKLCeOPjfKUDxyevuFzZK2HuvlRFMgs)  
+  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - [Virtual code registry](https://drive.google.com/open?id=12Te_fTgQiobHmIdW4IGcxz8rcxcmz4PNL-jy-bbWaPs)  
+ &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  - Improving ASCL's generated CITATION.cff and codemeta.json files    
  &nbsp; &nbsp; 10:30    Coffee/tea break  
  &nbsp; &nbsp; 10:45    Temperature taking (how’s the workshop going? Do we need to revisit or spend more time on something?)  
- &nbsp; &nbsp; 11:00    Continuation of break-out groups  
+  &nbsp; &nbsp; 11:00    Continuation of break-out groups  
  &nbsp; &nbsp; 12:15    Lunch break  
  &nbsp; &nbsp;   1:15    Report back from morning's break-out groups  
  &nbsp; &nbsp;   2:20    Activity: [Links to download data from various registries](https://docs.google.com/document/d/1O63tK7jBHetWw30ef5cq72LI78sSxOTTEmq2OMsjZcA/edit)  
