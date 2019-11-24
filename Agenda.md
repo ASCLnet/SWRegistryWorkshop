@@ -1,5 +1,6 @@
 ## Agenda  
 ### Wednesday, November 13    
+[Day 1 slides](https://github.com/ASCLnet/SWRegistryWorkshop/blob/master/presentations/Workshop%20activities%2C%20Day%201.pdf) (PDF)   
  &nbsp; &nbsp; 8:30    Arrival and coffee/tea  
  &nbsp; &nbsp; 9:00   Introductions  
  &nbsp; &nbsp; 9:30   Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
@@ -44,6 +45,7 @@
  &nbsp; &nbsp; 7:00    Workshop dinner
 
 ### Thursday, November 14     
+[Day 2 slides](https://github.com/ASCLnet/SWRegistryWorkshop/blob/master/presentations/Workshop%20activities%2C%20Day%202.pdf) (PDF)   
  &nbsp; &nbsp;   8:30    Arrival and coffee/tea  
  &nbsp; &nbsp;  9:00    Presentations (available via Webex: [umd.webex.com/meet/ascl](https://umd.webex.com/meet/ascl))  
  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; [Slides](https://github.com/ASCLnet/SWRegistryWorkshop/tree/master/presentations)  
