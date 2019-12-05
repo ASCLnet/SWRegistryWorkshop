@@ -9,11 +9,12 @@ This two-day workshop for editors and maintainers of academic discipline and ins
 This workshop is the first effort focused specifically on and for discipline-specific software registries and repositories and leverages other ongoing efforts to improve software citation, including the work of the [FORCE11 Software Citation Implementation Working Group](https://github.com/force11/force11-sciwg), [Working toward Sustainable Software for Science: Practice and Experience (WSSSPE)](http://wssspe.researchcomputing.org.uk/), and the [CodeMeta](https://codemeta.github.io/) and [Citation File Format](https://citation-file-format.github.io/) projects.
 
 <img width="100%" src="assets/media/ssrcw-group-photo-2019-11-14-small.png">
-<br>
 <p align="center">
-<a href="assets/media/ssrcw-group-photo-2019-11-14-medium.png">(Larger image)</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="assets/media/ssrcw-group-photo-2019-11-14-full.png">(Full-sized image)</a>
+<a href="assets/media/ssrcw-group-photo-2019-11-14-medium.png">[Larger photo]</a>
+&nbsp;&nbsp;
+<a href="assets/media/ssrcw-group-photo-2019-11-14-full.png">[Full-sized photo]</a>
+<br>
+<a href="https://scicodes.smugmug.com/SSRCW-2019"><strong>&rarr; View the complete photo album on SmugMug &larr;</strong></a>
 </p>
 
 ### Organizers
@@ -35,6 +36,9 @@ This workshop is the first effort focused specifically on and for discipline-spe
 ### [Workshop and presentation slides](https://github.com/ASCLnet/SWRegistryWorkshop/tree/master/presentations)  
 
 ### [Workshop Evaluation](https://forms.gle/ksjx6o6pNkbS8gsSA)  
+
+### [Photo album](https://scicodes.smugmug.com/SSRCW-2019)  
+
 
 ### Funding  
 This workshop is made possible by support from the [Alfred P. Sloan Foundation](https://sloan.org/); we are grateful for their support.   
