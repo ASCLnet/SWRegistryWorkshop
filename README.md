@@ -14,7 +14,7 @@ This workshop is the first effort focused specifically on and for discipline-spe
 &nbsp;&nbsp;
 <a href="assets/media/ssrcw-group-photo-2019-11-14-full.png">[Full-sized photo]</a>
 <br>
-<a href="https://scicodes.smugmug.com/SSRCW-2019"><strong>&rarr; View the complete photo album on SmugMug &larr;</strong></a>
+<strong><a href="https://scicodes.smugmug.com/SSRCW-2019">&rarr; View the complete photo album on SmugMug &larr;</a></strong>
 </p>
 
 ### Organizers
