@@ -1,4 +1,4 @@
-### Workshop products are listed below.  
+### Workshop products include:  
 
   &nbsp; &nbsp; &nbsp; &nbsp; - [Nine Best Practices for Research Software Registries and Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117)   
   &nbsp; &nbsp; &nbsp; &nbsp; - [Best Practices for Software Registries Task Force](https://github.com/force11/force11-sciwg/tree/master/Repositories)
