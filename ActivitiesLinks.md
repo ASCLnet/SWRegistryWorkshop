@@ -40,5 +40,5 @@ This page contains links to folders and files that will be used during the works
   &nbsp; &nbsp;    
   &nbsp; &nbsp;    
   &nbsp; &nbsp; 
-##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Agenda](https://asclnet.github.io/SWRegistryWorkshop/Agenda.html) | [Remote access](https://asclnet.github.io/SWRegistryWorkshop/#remote-access) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html) | [Participants](https://asclnet.github.io/SWRegistryWorkshop/Participants.html)   
+##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Agenda](https://asclnet.github.io/SWRegistryWorkshop/Agenda.html) | [Remote access](https://asclnet.github.io/SWRegistryWorkshop/#remote-access) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html) | [Participants](https://asclnet.github.io/SWRegistryWorkshop/Participants.html) | [Products](Products/Products.md)   
 
