@@ -9,6 +9,8 @@ Workshop products include:
 
   &nbsp; &nbsp; &nbsp; &nbsp; - Workshop report
 
+  &nbsp; &nbsp; &nbsp; &nbsp; - [Examples of registry entries rendered in CodeMeta and/or CFF files](https://github.com/ASCLnet/SWRegistryWorkshop/blob/master/Products/Software%20metadata%20file%20examples.md)
+
   &nbsp; &nbsp;   
   &nbsp; &nbsp;    
   &nbsp; &nbsp;    
