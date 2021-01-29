@@ -1,6 +1,6 @@
 ## Workshop products and results
   
-Two major goals of the workshop were to complete the development of best practices for discipline-specific software registries and repositories, and to improve adoption of emerging software metadata file standards, with a focus on CodeMeta and the Citation File Format files, across our varied disciplines. Products of the workshop that support these goals are listed below.
+Two major goals of the workshop were to complete the development of best practices for discipline-specific software registries and repositories started in earlier virtual task force meetings and to improve adoption of emerging software metadata file standards, with a focus on CodeMeta and the Citation File Format files, across our varied disciplines. Products of the workshop that support these goals are listed below.
 
 
 &nbsp; &nbsp; arXiv paper: [Nine Best Practices for Research Software Registries and Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117)   
