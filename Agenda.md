@@ -77,4 +77,4 @@
   &nbsp; &nbsp;    
   &nbsp; &nbsp;    
   &nbsp; &nbsp;  
-##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Remote access](https://asclnet.github.io/SWRegistryWorkshop/RemoteAccess.html) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html) | [Participants](https://asclnet.github.io/SWRegistryWorkshop/Participants.html)   
+##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Remote access](https://asclnet.github.io/SWRegistryWorkshop/RemoteAccess.html) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html) | [Participants](https://asclnet.github.io/SWRegistryWorkshop/Participants.html)  |  [Products](Products/Products.md)   
