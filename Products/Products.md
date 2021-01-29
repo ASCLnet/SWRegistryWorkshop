@@ -1,7 +1,7 @@
 Workshop products include:  
 
   &nbsp; &nbsp; &nbsp; &nbsp; - arXiv paper: [Nine Best Practices for Research Software Registries and Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117)   
-  &nbsp; &nbsp; &nbsp; &nbsp; - List of practices on FORCE11 Software Citation Implementation Working Group site: [Best Practices for Software Registries Task Force](https://github.com/force11/force11-sciwg/tree/master/Repositories)
+  &nbsp; &nbsp; &nbsp; &nbsp; - List of Best Practices on the FORCE11 Software Citation Implementation Working Group site: [Best Practices for Software Registries Task Force](https://github.com/force11/force11-sciwg/tree/master/Repositories)
 
   &nbsp; &nbsp; &nbsp; &nbsp; - [Software tools to create codemeta.json files from software registry entries](https://github.com/caltechlibrary/convert_codemeta)
 
