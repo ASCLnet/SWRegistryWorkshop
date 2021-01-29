@@ -77,5 +77,5 @@ For getting around locally, consider a pedal bicycle, e-bicycle, or e-scooter: V
   &nbsp; &nbsp;    
   &nbsp; &nbsp;    
   &nbsp; &nbsp;  
-##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Agenda](https://asclnet.github.io/SWRegistryWorkshop/Agenda.html) | [Remote access](https://asclnet.github.io/SWRegistryWorkshop/RemoteAccess.html) | [Participants](https://asclnet.github.io/SWRegistryWorkshop/Participants.html)   
+##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Agenda](https://asclnet.github.io/SWRegistryWorkshop/Agenda.html) | [Remote access](https://asclnet.github.io/SWRegistryWorkshop/RemoteAccess.html) | [Participants](https://asclnet.github.io/SWRegistryWorkshop/Participants.html) | [Products](Products/Products.md)   
 
