@@ -37,7 +37,7 @@ This workshop is the first effort focused specifically on and for discipline-spe
 
 ### [Workshop Evaluation](https://forms.gle/ksjx6o6pNkbS8gsSA)  
 
-### [Workshop Products](Products.md)
+### [Workshop Products](https://github.com/ASCLnet/SWRegistryWorkshop/blob/master/Products/Products.md)
 
 ### [Photo album](https://scicodes.smugmug.com/SSRCW-2019)  
 
