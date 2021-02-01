@@ -39,7 +39,7 @@ This workshop is the first effort focused specifically on and for discipline-spe
 
 ### [Workshop products and results](Products/Products.md)
 
-### [Photo album](https://scicodes.smugmug.com/SSRCW-2019)  
+### [Photo album](https://mikehucka.smugmug.com/Work/Software-meetings/SSRCW-2019/)  
 
 
 ### Funding  
