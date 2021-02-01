@@ -11,7 +11,7 @@ Two major goals of the workshop were to complete the development of best practic
 
 &nbsp; &nbsp; [Workshop website homepage](https://asclnet.github.io/SWRegistryWorkshop/)
 
-&nbsp; &nbsp; Workshop report
+&nbsp; &nbsp; Workshop report (coming soon!)
 
 &nbsp; &nbsp; [Examples of registry entries rendered in CodeMeta and/or CFF files](https://asclnet.github.io/SWRegistryWorkshop/Products/Software%20metadata%20file%20examples.html)
 
