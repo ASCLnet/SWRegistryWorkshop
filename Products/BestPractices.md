@@ -12,8 +12,7 @@ One goal of this workshop was to complete the development of best practices for 
 * Disclose your end-of-life policy
 
 
-### Policy examples
-  #### Scope Statement
+### Policy examples: Scope Statement
    * Astrophysics Source Code Library. (n.d.). Editorial policy. https://ascl.net/wordpress/submissions/editiorial-policy/  
    * bio.tools. (n.d.). Curators Guide. https://biotools.readthedocs.io/en/latest/curators_guide.html  
    * Caltech Library. (2017). Terms of Deposit. https://data.caltech.edu/terms  
@@ -27,7 +26,7 @@ One goal of this workshop was to complete the development of best practices for 
    * U.S. Department of Energy: Office of Scientific and Technical Information. (n.d.-a). DOE CODE: Software Policy. https://www.osti.gov/doecode/policy  
    * U.S. Department of Energy: Office of Scientific and Technical Information. (n.d.-b). FAQs. OSTI.GOV. https://www.osti.gov/faqs  
 
-  #### Authorship  
+  ### Policy examples: Authorship  
    * CASRAI. (n.d.). CRediT - Contributor Roles Taxonomy. CASRAI. https://casrai.org/credit/  
    * Committee on Publication Ethics: COPE. (2020a). Authorship and contributorship. https://publicationethics.org/authorship  
    * Committee on Publication Ethics: COPE. (2020b). Core practices. https://publicationethics.org/core-practices  
@@ -39,7 +38,7 @@ One goal of this workshop was to complete the development of best practices for 
    * PLOS ONE. (n.d.). Authorship. https://journals.plos.org/plosone/s/authorship  
    * National Center for Data to Health. (2019). The Contributor Role Ontology. https://github.com/data2health/contributor-role-ontology  
 
-  #### Metadata Schema  
+  ### Policy examples: Metadata Schema  
    * ANDS: Australian National Data Service. (n.d.). Metadata. ANDS. https://www.ands.org.au/working-with-data/metadata  
    * ANDS: Australian National Data Service. (2016). ANDS Guide: Metadata. https://www.ands.org.au/__data/assets/pdf_file/0004/728041/Metadata-Workinglevel.pdf  
    * Bernal, I. (2019). Metadata for Data Repositories. https://doi.org/10.5281/zenodo.3233486  
@@ -53,13 +52,13 @@ One goal of this workshop was to complete the development of best practices for 
    * Zenodo. (n.d.-a). Schema for Depositing. https://zenodo.org/schemas/records/record-v1.0.0.json  
    * Zenodo. (n.d.-b). Schema for Published Record. https://zenodo.org/schemas/deposits/records/legacyrecord.json  
 
-  #### ***Conditions of use policy***  
+  ### Policy examples: Conditions of use policy  
    * Allen Institute. (n.d.). Terms of Use. https://alleninstitute.org/legal/terms-use/
    * Europeana. (n.d.). Usage Guidelines for Metadata. Europeana Collections. https://www.europeana.eu/portal/en/rights/metadata.html  
    * U.S. Department of Energy: Office of Scientific and Technical Information. (n.d.). DOE CODE FAQ: Are there restrictions on the use of the material in DOE CODE? https://www.osti.gov/doecode/faq/#are-there-restrictions  
    * Zenodo. (n.d.). Terms of Use. https://about.zenodo.org/terms/  
 
-  #### ***Privacy policy***    
+  ### Policy examples: Privacy policy    
    * Allen Institute. (n.d.). Privacy Policy. https://alleninstitute.org/legal/privacy-policy/  
    * CoMSES Net. (n.d.). Data Privacy Policy. https://www.comses.net/about/data-privacy/  
    * Nature. (2020). Privacy Policy. https://www.nature.com/info/privacy  
@@ -68,14 +67,14 @@ One goal of this workshop was to complete the development of best practices for 
    * Science Repository. (n.d.). Privacy Policies. https://www.sciencerepository.org/privacy  
    * Zenodo. (n.d.). Privacy policy. https://about.zenodo.org/privacy-policy/  
 
- #### ***Retention Policy***  
+ ### Policy examples: Retention Policy  
    * Caltech Library. (n.d.). CaltechDATA FAQ. https://www.library.caltech.edu/caltechdata/faq  
    * CoMSES Net Computational Model Library. (n.d.). How long will models be stored in the Computational Model Library? https://www.comses.net/about/faq/  
    * Dryad. (2020). Dryad FAQ - Publish and Preserve your Data. https://datadryad.org/stash/faq/#preserved  
    * Software Heritage. (n.d.). Content policy. https://www.softwareheritage.org/legal/content-policy/  
    * Zenodo. (n.d.). General Policies v1.0. https://about.zenodo.org/policies/  
   
-  #### ***End-of-life policy***    
+  ### Policy examples: End-of-life policy    
   * Bioconductor. (2020). Package End of Life Policy. https://bioconductor.org/developers/package-end-of-life/  
   * Figshare. (n.d.). Preservation and Continuity of Access Policy. https://knowledge.figshare.com/articles/item/preservation-and-continuity-of-access-policy  
   * Open Science Framework. (2019). FAQs. OSF Guides. http://help.osf.io/hc/en-us/articles/360019737894-FAQs  
