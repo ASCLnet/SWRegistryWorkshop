@@ -13,7 +13,7 @@ One goal of this workshop was to complete the development of best practices for 
 
 
 ### Policy examples
-  #### ***Scope Statement***
+  #### Scope Statement
    * Astrophysics Source Code Library. (n.d.). Editorial policy. https://ascl.net/wordpress/submissions/editiorial-policy/  
    * bio.tools. (n.d.). Curators Guide. https://biotools.readthedocs.io/en/latest/curators_guide.html  
    * Caltech Library. (2017). Terms of Deposit. https://data.caltech.edu/terms  
@@ -27,7 +27,7 @@ One goal of this workshop was to complete the development of best practices for 
    * U.S. Department of Energy: Office of Scientific and Technical Information. (n.d.-a). DOE CODE: Software Policy. https://www.osti.gov/doecode/policy  
    * U.S. Department of Energy: Office of Scientific and Technical Information. (n.d.-b). FAQs. OSTI.GOV. https://www.osti.gov/faqs  
 
-  #### ***Authorship***  
+  #### Authorship  
    * CASRAI. (n.d.). CRediT - Contributor Roles Taxonomy. CASRAI. https://casrai.org/credit/  
    * Committee on Publication Ethics: COPE. (2020a). Authorship and contributorship. https://publicationethics.org/authorship  
    * Committee on Publication Ethics: COPE. (2020b). Core practices. https://publicationethics.org/core-practices  
@@ -39,7 +39,7 @@ One goal of this workshop was to complete the development of best practices for 
    * PLOS ONE. (n.d.). Authorship. https://journals.plos.org/plosone/s/authorship  
    * National Center for Data to Health. (2019). The Contributor Role Ontology. https://github.com/data2health/contributor-role-ontology  
 
-  #### ***Metadata Schema***  
+  #### Metadata Schema  
    * ANDS: Australian National Data Service. (n.d.). Metadata. ANDS. https://www.ands.org.au/working-with-data/metadata  
    * ANDS: Australian National Data Service. (2016). ANDS Guide: Metadata. https://www.ands.org.au/__data/assets/pdf_file/0004/728041/Metadata-Workinglevel.pdf  
    * Bernal, I. (2019). Metadata for Data Repositories. https://doi.org/10.5281/zenodo.3233486  
