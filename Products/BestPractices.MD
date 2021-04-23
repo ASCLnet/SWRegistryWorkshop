@@ -119,3 +119,14 @@ The guidelines were authored by:
 * Stephan Druskat, German Aerospace Center (DLR)/University Jena/Humboldt-Universität zu Berlin: Citation File Format, https://orcid.org/0000-0003-4925-7248 
 * Ted Carnevale, Neuroscience Department, Yale: ModelDB
 * Tom Morrell, Caltech, https://orcid.org/0000-0001-9266-5146
+
+&nbsp; &nbsp;
+&nbsp; &nbsp;
+&nbsp; &nbsp;
+&nbsp; &nbsp;
+&nbsp; &nbsp;
+&nbsp; &nbsp;
+&nbsp; &nbsp;
+
+##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Agenda](https://asclnet.github.io/SWRegistryWorkshop/Agenda.html) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html) | [Participants](https://asclnet.github.io/SWRegistryWorkshop/Participants.html) | [Products](https://asclnet.github.io/SWRegistryWorkshop/Products.html)   
+
