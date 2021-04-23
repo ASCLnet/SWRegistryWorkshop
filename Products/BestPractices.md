@@ -128,4 +128,4 @@ The guidelines were authored by:
 &nbsp; &nbsp;
 
 ##### [Main page](https://asclnet.github.io/SWRegistryWorkshop/) | [Agenda](https://asclnet.github.io/SWRegistryWorkshop/Agenda.html) | [Logistics](https://asclnet.github.io/SWRegistryWorkshop/Logistics.html) | [Participants](https://asclnet.github.io/SWRegistryWorkshop/Participants.html) | [Products](https://asclnet.github.io/SWRegistryWorkshop/Products/Products.html)   
-
+ 
