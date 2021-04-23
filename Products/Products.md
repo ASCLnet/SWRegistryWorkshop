@@ -2,8 +2,10 @@
   
 Two major goals of the workshop were to complete the development of best practices for discipline-specific software registries and repositories started in earlier virtual task force meetings and to improve adoption of emerging software metadata file standards, with a focus on CodeMeta and the Citation File Format files, across our varied disciplines. Products of the workshop that support these goals are listed below.
 
+### Best Practices
+&nbsp; &nbsp; arXiv paper: [Nine Best Practices for Research Software Registries and Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117)  
 
-&nbsp; &nbsp; arXiv paper: [Nine Best Practices for Research Software Registries and Repositories: A Concise Guide](https://arxiv.org/abs/2012.13117)   
+&nbsp; &nbsp; [List of Best Practices, examples, and author list](https://github.com/ASCLnet/SWRegistryWorkshop/blob/master/Products/BestPractices.MD)
   
 &nbsp; &nbsp; List of Best Practices on the FORCE11 Software Citation Implementation Working Group site: [Best Practices for Software Registries Task Force](https://github.com/force11/force11-sciwg/tree/master/Repositories)
 
