@@ -9,6 +9,8 @@ Two major goals of the workshop were to complete the development of best practic
   
 &nbsp; &nbsp; List of Best Practices on the FORCE11 Software Citation Implementation Working Group site: [Best Practices for Software Registries Task Force](https://github.com/force11/force11-sciwg/tree/master/Repositories)
 
+### Other products
+
 &nbsp; &nbsp; [Software tools to create codemeta.json files from software registry entries](https://github.com/caltechlibrary/convert_codemeta)
 
 &nbsp; &nbsp; [Workshop website homepage](https://asclnet.github.io/SWRegistryWorkshop/)
